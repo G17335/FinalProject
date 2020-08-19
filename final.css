@@ -1,0 +1,59 @@
+h1, h2 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+.contentsPanel {
+  float: left;
+  width: 25%;
+  border: 1px solid #a2a9b1;
+  background-color: #f8f9fa;
+  font-size: 90%;
+  padding: 5px;
+  margin-top:16px;
+}
+.introduction {
+  float: right;
+  width: 70%;
+}
+.section {
+  border: 1px solid black;
+  padding: 0rem 2rem 0rem 2rem;
+  overflow: hidden;
+}
+.section1{
+
+border: 1px solid black;
+  padding: 0rem 2rem 0rem 2rem;
+  overflow: hidden;
+}
+
+.section2{
+
+border: 1px solid black;
+  padding: 0rem 2rem 0rem 2rem;
+  overflow: hidden;
+}
+
+.section3{
+
+border: 1px solid black;
+  padding: 0rem 2rem 0rem 2rem;
+  overflow: hidden;
+}
+.section-left {
+  float: left;
+  width: 85%;
+}
+
+.section-right {
+  
+  float: right;
+  width: 40%;
+}
+img {
+  width: 100%;
+}
